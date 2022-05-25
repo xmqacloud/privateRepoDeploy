@@ -3,7 +3,7 @@
 .gitignore
 .vs
 .config
-.sitecore
+.sitecoreeee
 build
 docker
 packages
